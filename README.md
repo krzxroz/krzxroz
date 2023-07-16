@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @krzxroz
+- 👋 Call me Kris
 - 👀 I’m interested in getting started
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on iot & ecu stuff
